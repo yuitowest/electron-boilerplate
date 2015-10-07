@@ -1,0 +1,8 @@
+*.swo
+*.swp
+node_modules/
+.tmp/
+dist/
+rel/
+.cache
+npm-debug.log
